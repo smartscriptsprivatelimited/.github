@@ -29,7 +29,7 @@ Smartscripts is a leading IT solutions provider and startup consulting company c
 
 ## 📚 Stay Updated
 
-Explore our [Blog](https://smartscripts.in/blog) to stay on top of tech trends, SEO tips, and digital marketing insights.
+Explore our [Blog](https://smartscripts.tech/blog) to stay on top of tech trends, SEO tips, and digital marketing insights.
 
 ## 🌱 Get Involved
 
@@ -37,20 +37,20 @@ We’re always open to collaborating with tech enthusiasts, developers, and digi
 
 ## 🧰 Useful Links
 
-- 🌐 [Official Website](https://smartscripts.in)
-- 📄 [Case Studies](https://smartscripts.in/case-studies)
+- 🌐 [Official Website](https://smartscripts.tech)
+- 📄 [Case Studies](https://smartscripts.tech/case-studies)
 - 📞 Contact: +91 7399 30 4545
 - 📍 Pune | Satara, Maharashtra
 
 ## 👥 Join Our Team
 
-Interested in building the future with us? Check out our [Careers](https://smartscripts.in/career) page!
+Interested in building the future with us? Check out our [Careers](https://smartscripts.tech/career) page!
 
 ---
 
 **Smartscripts Private Limited**  
 _Your Partner in Innovation and Growth_
 
-🔗 Follow us on [LinkedIn](#) | [Twitter](#) | [Instagram](#)
+🔗 Follow us on [LinkedIn](https://in.linkedin.com/company/smartscriptstech) | [Twitter](https://twitter.com/smartscriptspl) | [Instagram](https://www.instagram.com/smartscriptstech/) | [Facebook](https://www.facebook.com/SmartScripts1/)
 
 © 2025 Smartscripts Private Limited. All rights reserved.
